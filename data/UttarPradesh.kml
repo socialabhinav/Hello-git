@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Uttar Pradesh</name>
+  <description><![CDATA[Uttar Pradesh Sony Centers]]></description>
+  <NetworkLink>
+    <name>Uttar Pradesh</name>
+    <Link>
+      <href>http://maps.google.com/maps/ms?vps=7&amp;hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;authuser=0&amp;msa=0&amp;msid=209385667907341735832.0004d8597bc920bb01ec7&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+</Document>
+</kml>

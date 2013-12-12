@@ -1,0 +1,134 @@
+body
+{
+    background: #AF0215;
+    font-size: .80em;
+    font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 5px;
+    color: #FFFFFF;
+}
+
+div .address
+{
+    background-image: url('../images/green_pin.png');
+    background-repeat: no-repeat;
+    height: 36px;
+    padding-left: 25px;
+}
+
+
+div .error
+{
+    height: 30px;
+    color: #F68083;
+    padding-top: 5px;
+}
+
+
+#form-input label,
+div .address #lblAddress,
+div .error label
+{
+    font-weight: bold;
+}
+
+#map-container
+{
+	clear: left;
+	float: left;
+	width: 100%;
+}
+
+#map-container a
+{
+	color: #FD7904;
+	text-decoration: none;
+}
+
+#loc-list
+{
+	float: left; 
+	width: 19%;
+	height: 600px;
+	overflow: auto;
+}
+
+#loc-list ul
+{
+	display: block;
+	clear: left;
+	float: left;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#loc-list .list-label
+{
+    float: left;
+    padding: 2px 3px;
+    width: 17px;
+    text-align: center;
+    background: #FD7904;
+    font-weight: bold;
+    margin: 5px 3px 0 2px;
+}
+
+
+#loc-list .list-content
+{
+	margin: 2px 2px 0 0;
+	border: 1px solid #FD7904;
+	padding-left: 2px;
+}
+
+#loc-list li
+{
+	display: block;
+	clear: left;
+	float: left;
+	cursor: pointer;
+	width: 100%;
+}
+
+#map-container .loc-name
+{
+	font-weight: bold;
+	padding-left: 27px;
+}
+
+#search-form
+{
+	clear: left;
+	float: left;
+	height: 60px;
+}
+
+#form-input
+{
+	float: left;
+	margin-top: 3px;
+}
+
+#address
+{
+	margin: 0 0 0 10px;
+}
+
+#submit-btn
+{
+	float: left;
+}
+
+#map
+{
+	float: left; 
+	width: 80%; 
+	height: 600px;
+    border: 1px solid #FD7904;
+}
+
+.infoWindow
+{
+    color: Black;
+}

@@ -1,0 +1,1952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+<Document>
+  <name>Uttar Pradesh</name>
+  <description><![CDATA[Uttar Pradesh Sony Centers]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>RAJ MUSICO</name>
+    <description><![CDATA[<div dir="ltr">19  A B TAJ ROAD SADAR BAZAR  AGRA  CANT AGRA</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>78.009499,27.159210,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gaurav Distributor</name>
+    <description><![CDATA[<div dir="ltr">COMMERCIAL PLOT NO 1 PARKING CP-3 OPPOSITE ANUPAM PLAZA SANJAY PLACE</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>78.004829,27.190279,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SAHU AGENCIES PVT. LTD.</name>
+    <description><![CDATA[<div dir="ltr">NEELGIRI COMPLEX  OPP  ARORA PETROL   PUMP  INDRANAGAR LUCKNOW</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>80.959488,26.883671,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SAHU AGENCIES PVT. LTD.</name>
+    <description><![CDATA[<div dir="ltr">ADJACENT GANGOTRI OPP  HALWASIA MKT  HAZRATGANJ HAZRATGANJ LUCKNOW</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>80.941277,26.850559,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DAYAL INFOTAINMENT</name>
+    <description><![CDATA[<div dir="ltr">SHOP NO  37 LGF SHIPRA MALL SHIPRA SUN CITY INDRAPURAM GHAZIABAD</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>77.371902,28.638773,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GARG ASSOCIATES</name>
+    <description><![CDATA[<div dir="ltr">54 A  MATRIX SQUARE MODEL TOWN WEST  G  T  ROAD LANDMARK   NEAR NAVRANG CINEMA  GHAZIABAD</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>77.438049,28.652397,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+
+<Document>
+  <name>Puducherry</name>
+  <description><![CDATA[Puducherry Sony Centers]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>SRI GANESH</name>
+    <description><![CDATA[<div dir="ltr">261 JAWAHARLAL NEHRU STREET PONDY</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>79.825417,11.936702,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+
+<Document>
+  <name>Gujarat</name>
+  <description><![CDATA[Gujarat Sony Centers]]></description>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>TECH ONE</name>
+    <Snippet>Anand Mahal Rd, Adajan Gam, Narotam Nagar, Surat, Gujarat 395009, India</Snippet>
+    <description><![CDATA[<div dir="ltr">G 74 SHREEJI ARCADE NEAR BHULKA BHAVAN SCHOOL ANAND MAHEL ROAD ADAJAN SURAT</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>72.798531,21.193733,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>VAMA PACKAGING</name>
+    <Snippet>Race Course Cir, Subhanpura, Vadodara, Gujarat 390023, India</Snippet>
+    <description><![CDATA[<div dir="ltr">1  GF TRIDENT COMPLEX RACE COURSE CIRCLE  RACE COURSE CIRCLE BARODA</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>73.164276,22.314844,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SHREE SARGAM TRADERS (INDIA) PVT LT</name>
+    <description><![CDATA[<div dir="ltr">PIPLOD PLAZA OPP LANCERS ARMY SCHOOL PIPLOD PIPLOD SURAT</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>72.795998,21.177999,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SHREE PARSHWANATH ENTERPRISES</name>
+    <description><![CDATA[<div dir="ltr">4 7  PARSHWANATH ENTERPRISE NR SHRENIK PARK  CHAR RASTA OFF BPC ROAD AKOTA BARODA</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>73.165001,22.323999,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SHREE PARSHWANATH ENTERPRISES</name>
+    <description><![CDATA[<div dir="ltr">2  KOTHARI CHAMBERS NEAR GOVT PRESS  KOTHI BARODAVadodara, Gujarat 390001, India</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>73.196999,22.304022,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAVRANG VINIYOG PVT</name>
+    <description><![CDATA[<div dir="ltr">5  SUMEL GROUND FLOOR OPP  GNFC TOWER S G ROAD AHMEDABAD</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>72.559601,23.045385,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAVRANG VINIYOG PVT</name>
+    <description><![CDATA[<div dir="ltr">5  SIDDHIVINAYAK COMPLEX   SHIVRANJANI CROSS ROADS AHMEDABAD</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>72.557846,23.045012,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ADEN ELECTRONIC</name>
+    <description><![CDATA[<div dir="ltr">GAISFORD CINEMA ROAD OPP  G T  GIRLS SCHOOL  OPP G T  GIRLS SCHOOL RAJKOT</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>70.800377,22.302452,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>RAMESH CORPORATION</name>
+    <description><![CDATA[<div dir="ltr">SHOP NO: 1 &amp; 2 NAKSHATRA BUILDING NEAR HDFC BANK MANINAGAR CHAR RASTA AHMEDABAD</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>72.608124,22.998310,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+
+<Document>
+  <name>Haryana</name>
+  <description><![CDATA[Haryana Sony Centers]]></description>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>AMBIKA ENTERPRISES</name>
+    <description><![CDATA[<div dir="ltr">SCO NO 42  SECTOR 11 PANCHKULA </div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>76.849998,30.691000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>JLK ENTERPRISES</name>
+    <description><![CDATA[<div dir="ltr">B 139&nbsp; DLF SUPERMARKET 1 PHASE IV&nbsp;&nbsp; GURGAON HARYANA</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>77.093941,28.447109,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Deepika Enterprises</name>
+    <description><![CDATA[<div dir="ltr">SHOP NO&nbsp; 238 2ND FLOOR AMBIENCE MALL   GURGAON</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>77.098961,28.503242,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dawar International Electronics Pvt </name>
+    <description><![CDATA[<div dir="ltr">GF 16&nbsp; MGF PLAZA M G ROAD GURGAON</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>77.073212,28.477707,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+
+<Document>
+  <name>Karnataka</name>
+  <description><![CDATA[Karnataka Sony Centers]]></description>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>ARJAY ELECTRONICS</name>
+    <Snippet>+12° 59&#39; 48.03&quot;, +77° 41&#39; 45.83&quot;</Snippet>
+    <description><![CDATA[<div dir="ltr">UNIT NO G 14 PHONIX MARKET CITY  WHITEFIELD  BANGALORE</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>77.696068,12.996676,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>RADIOHOUSE</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">113  BRIGADE ROAD  BANGALORE</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>77.607178,12.972297,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>FOTOBEST PVT LTD</name>
+    <Snippet></Snippet>
+    <description><![CDATA[<div dir="ltr">UG 36/40 MANTRI MALL SAMPIGE ROAD MALLESHWARAM  BANGALORE</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>77.571274,13.003368,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name> R.L. PROPERTIES &amp; INVESTMENT</name>
+    <description><![CDATA[<div dir="ltr">SONY CENTER II   606 80 FT  ROAD 4TH BLOCK KORAMANGALA  BANGALORE</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>77.626938,12.936966,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Haavit</name>
+    <description><![CDATA[<div dir="ltr">NO 11 ABHAYA COMPLEX OPP AGARWAL EYE HOSPITAL NR SHOPPERS STOP BANNERGHATTA ROAD BANGALORE</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>77.598000,12.915000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAGA ELECTRONICS</name>
+    <description><![CDATA[<div dir="ltr">243/A2 1ST N BLOCK RAJAJINAGAR  BANGALORE</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>77.553001,13.004000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name> R.L. PROPERTIES &amp; INVESTMENT</name>
+    <description><![CDATA[<div dir="ltr">90/4 OUTER RING ROAD OPP MULTIPLEX THEATRE MARTHAHALLI  BANGALORE</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>77.701530,12.949844,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ADISHWAR INDIA PVT LTD</name>
+    <description><![CDATA[<div dir="ltr">303 100FT RING ROAD 7TH BLOCK  4TH PHASE BANASHAKARI 3RD STAGE  BANGALORE</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>77.582001,12.957000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MODERN RADIO ENGG</name>
+    <description><![CDATA[<div dir="ltr">SITE NO 23/30 RAMKY HOUSE HENNUR RING ROAD KALYANNAGAR POST  BANGALORE</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>77.632004,13.027000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ARJAY ELECTRONICS</name>
+    <description><![CDATA[<div dir="ltr">58 COLES ROAD BANGALORE</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>77.612999,12.996000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PCH MKTG</name>
+    <description><![CDATA[<div dir="ltr">NO 11 ABHAYA COMPLEX OPP AGARWAL EYE HOSPITAL NR SHOPPERS STOP BANNERGHATTA ROAD BANGALORE</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>77.597595,12.915119,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ARJAY RETAIL</name>
+    <description><![CDATA[<div dir="ltr">768 GROUND FLOOR 100FT ROAD  12TH MAIN ROAD HAL 2ND STAGE INDIRA NAGAR BANGALORE</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>77.641106,12.970066,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PANCHAMI ELECTRONICS 2</name>
+    <description><![CDATA[<div dir="ltr">DOOR NO 2 1 2/6 3 CHILIMBI MANGALORE</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>74.838089,12.884730,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+<Document>
+  <name>Madhya Pradesh</name>
+  <description><![CDATA[Madhya Pradesh Sony Centers]]></description>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>SYMPHONY</name>
+    <description><![CDATA[<div dir="ltr">3 4  SHAHNAI RESIDENCY AB ROAD INDORE</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>75.892174,22.741945,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>S. K. Arena Pvt Ltd</name>
+    <description><![CDATA[<div dir="ltr">241 242 DYNAMIC CENTER ZONE 1 M P  NAGAR  BHOPAL</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>77.431129,23.233755,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+
+<Document>
+  <name>Punjab</name>
+  <description><![CDATA[Punjab Sony Centers]]></description>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>DEEKAY ELECTRONICS</name>
+    <description><![CDATA[<div dir="ltr">GHUMAR MANDI CHOWK GHUMAR MANDI LUDHIANA</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>75.832077,30.918131,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PREM NARAYAN &amp; SONS</name>
+    <description><![CDATA[<div dir="ltr">G T ROAD  NEAR KINGS HOTEL JALANDHAR</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>75.556862,31.358360,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SONI BROTHERS</name>
+    <description><![CDATA[<div dir="ltr">38  THE MALL MALL ROAD AMRITSAR</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>74.879990,31.670441,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GOEL BROS</name>
+    <description><![CDATA[<div dir="ltr">SCO 517 SECTOR 70   MOHALI</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>76.721733,30.697933,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+<Document>
+  <name>Maharashtra</name>
+  <description><![CDATA[Maharashtra Sony Centers]]></description>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Esquire Tech</name>
+    <description><![CDATA[<div dir="ltr">SHOP NO  5/6/7 SAMRIDHI PLAZA MIRA BHAYANDER ROAD  MIRA ROAD E THANE</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>72.870834,19.284550,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SIDDHANSH ELECTRONICS</name>
+    <description><![CDATA[<div dir="ltr">UNIT NO HSU G11 PALLADIUM PHOENIX   MILL SENAPATI BAPAT MRG LOWER PAREL MUMBAI</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>72.824730,18.994841,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>AARVEE Computers</name>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">51
+  DHEERAJ HARITAGE COMMERCIAL COMPLEX SV ROAD NEAR MILAN SUBWAY SIGNAL
+  SANTACRUZ WEST</td></tr></tbody></table>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>72.838242,19.090368,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Suman Nagar Cir, Sion East, Sion</name>
+    <description><![CDATA[Mumbai, Maharashtra 400024, India<br>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>72.880974,19.053030,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SIDHANSH ELECTRONICS - (Ghatkopar)</name>
+    <description><![CDATA[<div dir="ltr">1ST FLOOR SHOP NO F23A R CITY MALL   LBS MARG GHATKOPAR WEST MUMBAI</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>72.916664,19.097815,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gyan Vikas Rd, Kopar Khairane</name>
+    <description><![CDATA[Navi Mumbai, Maharashtra 400709, India<br>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>72.999619,19.103472,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Palm Beach Rd, Sector 15, Belapur</name>
+    <description><![CDATA[Navi Mumbai, Maharashtra 400614, India<br>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>73.030212,19.009792,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lala Devidayal Rd, Mulund West</name>
+    <description><![CDATA[Mumbai, Maharashtra 400080, India<br>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>72.944901,19.175718,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Service Rd, Thane West</name>
+    <description><![CDATA[Thane, Maharashtra 400607, India<br>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>72.977913,19.221840,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Service Rd, Thane West</name>
+    <description><![CDATA[Thane, Maharashtra 400607, India<br>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>72.979431,19.222990,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Placemark 11</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>72.870834,19.284550,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sharanpur Rd</name>
+    <description><![CDATA[Nashik, Maharashtra 422005, India<br>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>73.773407,20.002115,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>VALUABLE LIFESTYLE</name>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">1 2, VIRAJ
+  CORNER<br>SHARANPUR ROAD<br>CANADA CORNER<br>NASIK</td></tr></tbody></table>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>73.770607,20.002598,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nashik - Pune Rd</name>
+    <description><![CDATA[Nashik, Maharashtra 422101, India<br>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>73.828278,19.961100,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>STAR ELECTRONICS</name>
+    <description><![CDATA[<div dir="ltr">SHOP NO 21 UTTAM MARKET OLD MUMBAI PUNE HIGHWAY OPP CHINCHWAD STATION CHINCHWAD PUNE</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>73.659210,18.725599,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shikshak NagarLane No. 11, Ramchandra Mane Rd, Shikshaknagar Survey no 89/1, Kothrud</name>
+    <description><![CDATA[Pune, Maharashtra 411038, India<br>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>73.805542,18.509869,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sangavi Keshri Rd, Aundh</name>
+    <description><![CDATA[Pune, Maharashtra, India<br>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>73.810959,18.557739,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ghole Rd, Shivaji Nagar</name>
+    <description><![CDATA[Pune, Maharashtra, India<br>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>73.848045,18.522884,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>पंत प्रतिनिधी रस्ता, Sadashiv Peth</name>
+    <description><![CDATA[Pune, Maharashtra 411030, India<br>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>73.844978,18.512207,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Suyog Prasad Digital</name>
+    <description><![CDATA[<div dir="ltr">2028  SADASHIV PETH TILAK ROAD NEAR SP COLLEGE  PUNE</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>73.849251,18.507895,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Narveer Tanaji Malusare Rd, Dattavadi</name>
+    <description><![CDATA[Pune, Maharashtra 411030, India<br>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>73.834541,18.492540,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Phoenix Boundary Rd, Viman Nagar</name>
+    <description><![CDATA[Pune, Maharashtra 411014, India<br>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>73.916405,18.561377,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DHUPAR BROTHERS</name>
+    <description><![CDATA[<div dir="ltr">SHOP NO  7 GIGA HIGH STREET GIGA SPACE COMPLEX OPP  MARUTI SHOWROOM VIMANNAGAR PUNE</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>73.918716,18.562969,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Premier Retail</name>
+    <description><![CDATA[Dhantoli, Nagpur, Maharashtra 440001, India<br>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>79.088158,21.145800,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Magic Electronics</name>
+    <description><![CDATA[<div dir="ltr">C 2  SAGAR GARDEN OPP  VASANT OSCAR LBS ROAD MULUND   W    MUMBAI</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>72.925812,19.119267,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+
+<Document>
+  <name>Tamil Nadu</name>
+  <description><![CDATA[Tamil Nadu Sony Centers]]></description>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Sri A N &amp; Grand Son</name>
+    <description><![CDATA[<div dir="ltr">965 AVINASHI ROAD COIMBATORE</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>76.987595,11.013255,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ARAS APPLIANCES PVT. LTD.</name>
+    <description><![CDATA[<div dir="ltr">NO 1 SUBBARAYA AVENUE ABHIRAMPURAM   CHENNAI</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>80.132133,12.938064,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jayantha India Retail Pvt Ltd</name>
+    <description><![CDATA[<div dir="ltr">OLD NO 66 NEW NO 142 VELACHERRY MAIN ROAD F 57 PHEONIX MARKET CITY</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>80.218285,12.992766,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ICHIBAN</name>
+    <description><![CDATA[<div dir="ltr">GROUND FLOOR SHIYAM S  BRINDAVAN 88  IVTH AVENUE  ASHOK NAGAR  CHENNAI</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>80.211220,13.038601,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KWALITY</name>
+    <description><![CDATA[<div dir="ltr">No 141A PURUSAWALKAM HIGH ROAD PURUSAWALKAM</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>80.247070,13.085816,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NAVKAR SECURITY SOLUTIONS</name>
+    <description><![CDATA[<div dir="ltr"># 3  ARCOT ROAD PORUR CHENNAI</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>80.156097,13.035373,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Saras Multiplex (Sony World - Vi) (Sony)</name>
+    <description><![CDATA[<div dir="ltr">NO  13 &amp; 14  RAMGIRI LAYOUT TARAMANI ROAD VELACHERY  CHENNAI</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>80.221207,12.975965,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>KWALITY</name>
+    <description><![CDATA[<div dir="ltr">NO 163/164 SMS BUILDING L  B  ROAD TIRUVANMIYUR  CHENNAI</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>80.255074,12.996334,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>A R A S Appliances Ltd (Sony)</name>
+    <description><![CDATA[<div dir="ltr">SONY WORLD RAINTREE PLACE 9  MCNICHOLS ROAD CHETPET CHENNAI</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>80.241005,13.072265,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+
+<Document>
+  <name>Uttarakhand</name>
+  <description><![CDATA[Uttarakhand Sony Centers]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Behl  Associates</name>
+    <description><![CDATA[<div dir="ltr">26   E  RAJPUR ROAD DEHRADUN</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>78.053116,30.333611,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+<Document>
+  <name>West Bengal</name>
+  <description><![CDATA[West Bengal Sony Centers]]></description>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>SAINI WORLD</name>
+    <description><![CDATA[<div dir="ltr">8/1E D H ROAD ALIPORE SOUTH KOLKATA</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>88.325211,22.523439,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GALAXY</name>
+    <description><![CDATA[<div dir="ltr">42 GARIAHAT ROAD SOUTH KOLKATA</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>88.359306,22.517870,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Supreme Technology</name>
+    <description><![CDATA[<div dir="ltr">35, CHITTARANJAN AVENUE, KOLKATA</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>88.360001,22.577000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DARSHAK ELECTRONICS </name>
+    <description><![CDATA[<div dir="ltr">4A ELGIN ROAD SOUTH KOLKATA</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>88.357002,22.555000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Saarang Plastics Pvt. Ltd.</name>
+    <description><![CDATA[<div dir="ltr">188C  RASHBEHARI AVENUE  KOLKATA</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>88.356003,22.518000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Prapti Fashions Pvt Ltd</name>
+    <description><![CDATA[<div dir="ltr">B007 LGF SOUTH CITY MALL 375 PRINCE ANWAR SHAH ROAD</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>88.361000,22.502001,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+<Document>
+  <name>Andhra Pradesh</name>
+  <description><![CDATA[Andhra Pradesh Sony Centers]]></description>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>VICTORY DIGITAL SHOPPE</name>
+    <Snippet>   DOOR   NO&amp;nbsp; 4 7 93MAIN ROADOPP&amp;nbsp; INDIAN OIL PETROL PUMPUPPAL ROADHABS</Snippet>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">DOOR
+  NO&nbsp; 4 7 93<br>MAIN ROAD<br>OPP&nbsp; INDIAN OIL PETROL PUMP<br>UPPAL ROAD<br>HABSIGUDA<br>HYDERABAD</td></tr></tbody></table>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>78.540230,17.416822,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ASIAN ELECTRONICS</name>
+    <Snippet>   6 3   676/A/2/3/4PANJAGUTTA X ROADSPANJAGUTTA&amp;nbsp;HYDERABAD</Snippet>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">6 3
+  676/A/2/3/4<br>PANJAGUTTA X ROADS<br>PANJAGUTTA<br>&nbsp;HYDERABAD</td></tr></tbody></table>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>78.456245,17.418215,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NITIH INFOTECH PVT LTD</name>
+    <Snippet>   1 7   283/12&amp;nbsp; 126JAYA MANSIONS D ROAD</Snippet>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">1 7
+  283/12&nbsp; 126<br>JAYA MANSION<br>S D ROAD</td></tr></tbody></table>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>78.488899,17.441072,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>TOKYO JAPAN CENTER</name>
+    <Snippet>   8 2   293/82/L/283A ROAD NO&amp;nbsp; 12&amp;nbsp;MLA COLONYBANJARA HILLSHYDERABAD</Snippet>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">8 2
+  293/82/L/283<br>A ROAD NO&nbsp; 12<br>&nbsp;MLA COLONY<br>BANJARA HILLS<br>HYDERABAD</td></tr></tbody></table>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>78.431519,17.410660,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>VAIBHAV ENTERPRISES</name>
+    <Snippet>   3 5   908/1/2/3HIMAYATH NAGAR&amp;nbsp;HYDERABAD</Snippet>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">3 5
+  908/1/2/3<br>HIMAYATH NAGAR<br>&nbsp;HYDERABAD</td></tr></tbody></table>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>78.487579,17.449875,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sri Lakshmi Enterprise</name>
+    <description><![CDATA[<div dir="ltr">SHOP NO  3, VIJAY SAI TOWERS 6 11 &amp; 6 11/A, OPP BJP PARTY OFFICE, KUKATPALLY,   HYDERABAD</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>78.414001,17.483000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>TOKYO JAPAN CENTER</name>
+    <description><![CDATA[<div dir="ltr">5 4 7 MAHA PRABHU HOUSE JAWAHAR LAL NEHRU ROAD ABIDS HYDERABAD</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>78.475998,17.386000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+
+
+<Document>
+  <name>Bihar</name>
+  <description><![CDATA[Bihar Sony Centers]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>IRIS VISION PVT LTD 2</name>
+    <description><![CDATA[<div dir="ltr">SHYAM SUNDAR COMPLEX BESIDE HALIDRAM JAGDOPATH CROSSING BAILEY ROAD PATNA</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>85.079071,25.605850,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+
+
+<Document>
+  <name>Assam</name>
+  <description><![CDATA[Assam Sony Centers]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>NRS MERCANTILE SERVICES PVT LTD</name>
+    <description><![CDATA[<div dir="ltr">CHRISTIAN BASTI G S ROAD GUWAHATI</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>91.780052,26.156933,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+
+<Document>
+  <name>Andhra Pradesh</name>
+  <description><![CDATA[Andhra Pradesh Sony Centers]]></description>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>VICTORY DIGITAL SHOPPE</name>
+    <Snippet>   DOOR   NO&amp;nbsp; 4 7 93MAIN ROADOPP&amp;nbsp; INDIAN OIL PETROL PUMPUPPAL ROADHABS</Snippet>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">DOOR
+  NO&nbsp; 4 7 93<br>MAIN ROAD<br>OPP&nbsp; INDIAN OIL PETROL PUMP<br>UPPAL ROAD<br>HABSIGUDA<br>HYDERABAD</td></tr></tbody></table>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>78.540230,17.416822,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ASIAN ELECTRONICS</name>
+    <Snippet>   6 3   676/A/2/3/4PANJAGUTTA X ROADSPANJAGUTTA&amp;nbsp;HYDERABAD</Snippet>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">6 3
+  676/A/2/3/4<br>PANJAGUTTA X ROADS<br>PANJAGUTTA<br>&nbsp;HYDERABAD</td></tr></tbody></table>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>78.456245,17.418215,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NITIH INFOTECH PVT LTD</name>
+    <Snippet>   1 7   283/12&amp;nbsp; 126JAYA MANSIONS D ROAD</Snippet>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">1 7
+  283/12&nbsp; 126<br>JAYA MANSION<br>S D ROAD</td></tr></tbody></table>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>78.488899,17.441072,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>TOKYO JAPAN CENTER</name>
+    <Snippet>   8 2   293/82/L/283A ROAD NO&amp;nbsp; 12&amp;nbsp;MLA COLONYBANJARA HILLSHYDERABAD</Snippet>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">8 2
+  293/82/L/283<br>A ROAD NO&nbsp; 12<br>&nbsp;MLA COLONY<br>BANJARA HILLS<br>HYDERABAD</td></tr></tbody></table>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>78.431519,17.410660,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>VAIBHAV ENTERPRISES</name>
+    <Snippet>   3 5   908/1/2/3HIMAYATH NAGAR&amp;nbsp;HYDERABAD</Snippet>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">3 5
+  908/1/2/3<br>HIMAYATH NAGAR<br>&nbsp;HYDERABAD</td></tr></tbody></table>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>78.487579,17.449875,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sri Lakshmi Enterprise</name>
+    <description><![CDATA[<div dir="ltr">SHOP NO  3, VIJAY SAI TOWERS 6 11 &amp; 6 11/A, OPP BJP PARTY OFFICE, KUKATPALLY,   HYDERABAD</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>78.414001,17.483000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>TOKYO JAPAN CENTER</name>
+    <description><![CDATA[<div dir="ltr">5 4 7 MAHA PRABHU HOUSE JAWAHAR LAL NEHRU ROAD ABIDS HYDERABAD</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>78.475998,17.386000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+<Document>
+  <name>Delhi/ NCR</name>
+  <description><![CDATA[Delhi/ NCR Sony Centers]]></description>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Avio Digital India Pvt. Ltd.</name>
+    <description><![CDATA[<div dir="ltr">FF 01  PARSAVNATH CITY MALL SECTOR   12   FARIDABAD</div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>77.312538,28.385712,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>JLK ENTERPRISES</name>
+    <description><![CDATA[<div dir="ltr">B 139  DLF SUPERMARKET 1 PHASE IV   GURGAON HARYANA</div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>77.093941,28.447109,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dawar International Electronics Pvt </name>
+    <description><![CDATA[<div dir="ltr">GF 16  MGF PLAZA M G ROAD GURGAON</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>77.073212,28.477707,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Deepika Enterprises</name>
+    <description><![CDATA[<div dir="ltr">SHOP NO  238 2ND FLOOR AMBIENCE MALL   GURGAON</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>77.098961,28.503242,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Road Number 201, Sector 4, Dwarka</name>
+    <description><![CDATA[New Delhi, Delhi 110078, India<br>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>77.054794,28.604170,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shivaji Marg, Hastsal</name>
+    <description><![CDATA[New Delhi, Delhi 110066, India<br>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>77.057709,28.622292,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Vishal Cinema Rd, Shivaji Place, Tagore Garden Extension</name>
+    <description><![CDATA[New Delhi, Delhi 110018, India<br>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>77.120087,28.650747,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>M264, Nangloi Saiyed Rd, Guru Harikishan Nagar, Paschim Vihar</name>
+    <description><![CDATA[New Delhi, Delhi 110087, India<br>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>77.084251,28.670700,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shiva Rd, Sector 8, Rohini</name>
+    <description><![CDATA[New Delhi, Delhi 110085, India<br>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>77.122177,28.706144,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nishant Kunj Internal Rd, Kohat Enclave, Pitampura</name>
+    <description><![CDATA[New Delhi, Delhi 110034, India<br>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>77.142815,28.696331,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>3, Lacchmandas Aggrawal Marg, Roop Nagar, Kamla Nagar</name>
+    <description><![CDATA[New Delhi, Delhi 110007, India<br>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>77.198692,28.685354,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Placemark 15</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>77.198692,28.685354,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bangla Sahib Rd, Lady Hardinge Medical College, Connaught Place, DIZ Area</name>
+    <description><![CDATA[New Delhi, Delhi 110001, India<br>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>77.210846,28.636606,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>A 34, Swami Dayanand Marg, East Krishna Nagar, Shahdara</name>
+    <description><![CDATA[New Delhi, Delhi 110051, India<br>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>77.288284,28.658869,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>II (3rd Floor), Hargovind Enclave, Vikas Marg, NIrman Vihar, Preet Vihar</name>
+    <description><![CDATA[New Delhi, Delhi 110092, India<br>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>77.290443,28.634842,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sony Center</name>
+    <description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="724" style="border-collapse:collapse;width:543pt"><tbody><tr>
+  <td height="20" width="724" style="width:543pt">SHOP
+  NO&nbsp; 37<br>LGF SHIPRA MALL<br>HIPRA SUN CITY<br>INDRAPURAM\<br>GHAZIABAD</td></tr></tbody></table>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>77.371902,28.638773,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sony Center Garg</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>77.438049,28.652397,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nelson Mandela Rd, Basant Lok</name>
+    <description><![CDATA[New Delhi, Delhi 110057, India<br>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>77.167007,28.555740,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Guru Gobind Singh Marg, Malviya Nagar</name>
+    <description><![CDATA[New Delhi, Delhi 110017, India<br>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>77.209160,28.534000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Asian Age</name>
+    <description><![CDATA[S - 7, Green Park Main Market, Green Park, New Delhi, Delhi 110016, India<br>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>77.202461,28.557947,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Brigadier Hoshiyar Singh Marg, Sarojini Nagar</name>
+    <description><![CDATA[New Delhi, Delhi 110023, India<br>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>77.197144,28.579721,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Barapullah Flyover, South Extension I</name>
+    <description><![CDATA[New Delhi, Delhi 110003, India<br>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>77.218788,28.576372,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Har Gyan Singh Arya Marg, Kotla Mubarakpur</name>
+    <description><![CDATA[New Delhi, Delhi 110003, India<br>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>77.221596,28.572153,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>E - 85</name>
+    <description><![CDATA[New Delhi, Delhi 110019, India<br>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>77.255592,28.542992,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MEHTA E-STORES PVT LTD.</name>
+    <description><![CDATA[<div dir="ltr">215  2ND FLOOR GIP MALL   SECTORE 38 A NOIDA</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>77.325691,28.567562,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Way to Shubhmanglam, E Block, Sector 27</name>
+    <description><![CDATA[Noida, Uttar Pradesh 201301, India<br>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>77.324661,28.573498,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

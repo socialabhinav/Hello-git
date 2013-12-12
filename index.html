@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery Store Locator with Google Maps API, Google Distance Matrix API, HTML5 GeoLocation & Google Maps KML file</title>
+    <link rel="stylesheet" type="text/css" href="css/map.min.css" />
+</head>
+<body>
+    <div id="store-locator-container">
+        <div id="form-container">
+            <div class="address">
+                <label>
+                    We have identified your location as somewhere near this address:
+                </label>
+                <label id="lblAddress">
+                </label>
+                <label>
+                    . If it's miles off, use the field provided to enter correct location.</label>
+            </div>
+            <form id="user-location" class="well form-search" method="post" action="#">
+            <div id="form-input">
+                <label for="address">
+                    Enter Address or Post Code:</label>
+                <input type="text" id="address" name="address" value="" class="input-medium search-query" />
+            </div>
+            <div id="submit-btn">
+                <input type="submit" id="submit" name="submit" class="btn btn-warning" /></div>
+            <div class="error">
+                &nbsp;<label id="lblError"></label>
+            </div>
+            </form>
+        </div>
+        <div id="map-container">
+            <div id="loc-list">
+                <div id="loc-list-wrapper">
+                    <ul id="list">
+                    </ul>
+                </div>
+            </div>
+            <div id="map">
+            </div>
+        </div>
+    </div>
+     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script src="js/jquery.storelocator.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#map-container').storeLocator();
+        });
+    </script>
+</body>
+</html>
